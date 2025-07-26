@@ -38,3 +38,4 @@ The **Attendance Management System** is a comprehensive **web-based solution** d
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/Attendance-Management-System.git
+![IMG-20250428-WA0002](https://github.com/user-attachments/assets/df0b0180-6088-432c-abcc-14955e63973b)
